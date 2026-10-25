@@ -25,10 +25,16 @@
 <br> </br>
 <br> </br>
 
+<a href="https://github.com/azevedolab/SFSXplorer">
+<img src="https://drive.usercontent.google.com/download?id=1-j3HRdoVZiqLa0NpMT7zAmZXtKDAQQxf&export=view&authuser=0" width=200 align=left title="A view of the scoring function space as a way to develop AI models to predict ligand-binding affinity."></a>
 <b>SFSXplorer: Scoring Function Space eXplorer</b>
 <p><a href="https://github.com/azevedolab/SFSXplorer" title = "Link to SFSXplorer 1.0">Link to SFSXplorer 1.0</a></p>
-
 <br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
+
 <h2><a href = "https://github.com/azevedolab/Bio" title = "Bio (Prof. Walter Filgueira de Azevedo, Jr.)"> Bio </a> </h2> 
 <a href="https://scholar.google.com/citations?user=HWwJXJUAAAAJ" title = "Link to Google Scholar">
 <img src="https://drive.usercontent.google.com/download?id=1rL_DWbMj6timTlYlhn9Hwm1acq8AU4QV&export=view&authuser=0" height=24 alt="Link to Google Scholar"></a>  
