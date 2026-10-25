@@ -5,7 +5,7 @@
 <br></br>
 <a href="https://github.com/azevedolab/sandres" title = "Link to SAnDReS 2.0">Link to SAnDReS 2.0</a>
 <br></br>
-<a href="10.1002/jcc.27449" title = "DOI:10.1002/jcc.27449">DOI:10.1002/jcc.27449</a>
+<a href="https://doi.org/10.1002/jcc.27449" title = "DOI:10.1002/jcc.27449">DOI:10.1002/jcc.27449</a>
 <br> </br>
 <br> </br>
 <br> </br>
@@ -28,6 +28,7 @@
 <a href="https://github.com/azevedolab/SFSXplorer">
 <img src="https://drive.usercontent.google.com/download?id=1-j3HRdoVZiqLa0NpMT7zAmZXtKDAQQxf&export=view&authuser=0" width=200 align=left title="A view of the scoring function space as a way to develop AI models to predict ligand-binding affinity."></a>
 <b>SFSXplorer: Scoring Function Space eXplorer</b>
+<br></br>
 <p><a href="https://github.com/azevedolab/SFSXplorer" title = "Link to SFSXplorer 1.0">Link to SFSXplorer 1.0</a></p>
 <br> </br>
 <br> </br>
